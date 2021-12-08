@@ -1,7 +1,7 @@
 #!# Olá meu nome é Gabriel Souza Costa 🙃
 
-- 🚑 Atualmente trabalho como auxiliar administrativo em um hospital
-- 🐱‍👤 Estou estudanto desenvolvimento web, linux e recentemente tenho visto um pouco de PyQt5
+- 🚑 Atualmente trabalho como auxiliar administrativo em um hospital e estudo programação no meu tempo livre
+- 🐱 Estou estudanto desenvolvimento web, linux e recentemente tenho visto um pouco de PyQt5
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSouzaCosta&show_icons=true&theme=synthwave" />
