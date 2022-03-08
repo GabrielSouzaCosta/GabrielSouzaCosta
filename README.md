@@ -2,9 +2,8 @@
 
 - 🚑 Atualmente trabalho como auxiliar administrativo em um hospital e estudo programação no meu tempo livre.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSouzaCosta&show_icons=true&theme=synthwave" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSouzaCosta&layout=compact&theme=tokyonight"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSouzaCosta&show_icons=true&theme=synthwave">
 </div>
 
 <div style="display: inline-block">
