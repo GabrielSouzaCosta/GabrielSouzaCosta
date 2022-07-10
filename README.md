@@ -7,13 +7,12 @@ Estudo programação fazem 2 anos.
   Backend
 </h2>
 <div style="display: inline-block">
-  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" height="75" width="175" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="center" height="75" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" />
-  <img align="center" height="75" src="https://user-images.githubusercontent.com/79537042/174825981-ea87c0a8-4a21-4587-9a84-f24d6d0f80e3.png" />
-  
-  
+  <img align="center" height="75" width="140" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
 </div>
-
+<br>
+<img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 
 
 <h2>
@@ -34,6 +33,15 @@ Estudo programação fazem 2 anos.
 <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 </div>
 <br>
+
+<div>
+<h2>Contato</h2>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <p>Email: <a href="mailto:gabrielsscosta2010@hotmail.com">gabrielsscosta2010@hotmail.com</a> </p>
+
+</div>
+<br>
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSouzaCosta&show_icons=true&theme=synthwave">
 </div>
