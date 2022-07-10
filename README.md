@@ -9,9 +9,12 @@ Estudo programação fazem 2 anos.
 <div style="display: inline-block">
   <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" height="75" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" />
+  <img align="center" height="75" src="https://user-images.githubusercontent.com/79537042/174825981-ea87c0a8-4a21-4587-9a84-f24d6d0f80e3.png" />
+  
+  
 </div>
 
-![icons8-flask-100](https://user-images.githubusercontent.com/79537042/174825981-ea87c0a8-4a21-4587-9a84-f24d6d0f80e3.png)
+
 
 <h2>
   Frontend
