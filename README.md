@@ -36,7 +36,7 @@ Estudo programação fazem 2 anos.
 
 <div>
 <h2>Contato</h2>
-<a href="https://www.linkedin.com/in/gabriel-souza-costa-8443481bb/">
+<a href="https://www.linkedin.com/in/gabriel-souza-costa-8443481bb/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <p>Email: <a href="mailto:gabrielsscosta2010@hotmail.com">gabrielsscosta2010@hotmail.com</a> </p>
