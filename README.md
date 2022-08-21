@@ -1,7 +1,11 @@
-# Olá! :handshake: Meu nome é Gabriel Souza Costa 🙃
+# Hi! :handshake: My name is Gabriel Souza Costa 🙃
 
-Eu sou um estudante de Desenvolvimento Web, trabalho primariamente com <strong>Python</strong> com os frameworks <strong>Django</strong> e <strong>Flask</strong>.
-Estudo programação fazem 2 anos.
+I'm a web developer, I work mainly with <strong>Python</strong> and the frameworks <strong>Django</strong> and <strong>Flask</strong>.
+I've been studying programming for about 2 years.
+
+I have a portfólio website here: <a href="https://gabriel-souza-costa.vercel.app/" target="_blank">
+https://gabriel-souza-costa.vercel.app/
+</a>
 
 <h2>
   Backend
@@ -14,7 +18,6 @@ Estudo programação fazem 2 anos.
 <br>
 <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 
-
 <h2>
   Frontend
 </h2>
@@ -26,16 +29,35 @@ Estudo programação fazem 2 anos.
   <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-<h2>
-  Outras Tecnologias
-</h2>
-<div style="display: inline-block">
-<img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-</div>
-<br>
+## Featured Projects
+
+<ul>
+
+<li>
+  <a href="https://github.com/GabrielSouzaCosta/shoe-shop">
+    Breathe Shoes (E-commerce)
+  </a>
+</li>
+<li>
+  <a href="https://github.com/GabrielSouzaCosta/heaven-bakery">
+    Heaven Bakery (E-commerce)
+  </a>
+</li>
+<li>
+  <a href="https://github.com/GabrielSouzaCosta/anime_hunter">
+    Anime Hunter (Anime website + watchlist manager)
+  </a>
+</li>
+<li>
+  <a href="https://github.com/GabrielSouzaCosta/SalveUmPet-React-Flask">
+    Save a Pet (Pets donation website)
+  </a>
+</li>
+
+</ul>
 
 <div>
-<h2>Contato</h2>
+<h2>Contact</h2>
 <a href="https://www.linkedin.com/in/gabriel-souza-costa-8443481bb/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
