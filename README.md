@@ -39,7 +39,7 @@ https://gabriel-souza-costa.vercel.app/
   </a>
 </li>
 <li>
-  <a href="https://github.com/GabrielSouzaCosta/heaven-bakery">
+  <a href="https://github.com/GabrielSouzaCosta/ecommerce-bakery-django-react">
     Heaven Bakery (E-commerce)
   </a>
 </li>
