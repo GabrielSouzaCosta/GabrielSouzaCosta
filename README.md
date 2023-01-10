@@ -1,11 +1,25 @@
 # Hi! :handshake: My name is Gabriel Souza Costa 🙃
 
-I'm a web developer, I work mainly with <strong>Python</strong> and the frameworks <strong>Django</strong> and <strong>Flask</strong>.
-I've been studying programming for about 2 years.
+I'm a <strong>Front-end developer</strong>, I love creating interfaces that are both functional and good-looking. I'm studying modern technologies like <strong>React and Next JS</strong>, but I also have solid knowledge of frontend development base. I have some backend development experience, mostly in Python
 
 I have a portfólio website here: <a href="https://gabriel-souza-costa.vercel.app/" target="_blank">
 https://gabriel-souza-costa.vercel.app/
 </a>
+
+
+<h2>
+  Frontend
+</h2>
+<div style="display: inline-block">
+  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" height="75" src="https://user-images.githubusercontent.com/79537042/211562672-4df42186-da46-4134-8678-828c7ce7fc12.png" />
+  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
+
 
 <h2>
   Backend
@@ -18,21 +32,15 @@ https://gabriel-souza-costa.vercel.app/
 <br>
 <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 
-<h2>
-  Frontend
-</h2>
-<div style="display: inline-block">
-  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
-
 ## Featured Projects
 
 <ul>
 
+<li>
+  <a href="https://github.com/GabrielSouzaCosta/catmeow">
+    CatMeow (Cat photos and facts generator)
+  </a>
+</li>
 <li>
   <a href="https://github.com/GabrielSouzaCosta/shoe-shop">
     Breathe Shoes (E-commerce)
