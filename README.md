@@ -35,7 +35,16 @@ https://gabriel-souza-costa.vercel.app/
 ## Featured Projects
 
 <ul>
-
+<li>
+  <a href="https://github.com/GabrielSouzaCosta/vinland-supply-react-dashboard">
+    Vinland Supply (Dashboard)
+  </a>
+</li>
+<li>
+  <a href="https://github.com/GabrielSouzaCosta/luvekitchen">
+    Luv&Kitchen (Recipes website)
+  </a>
+</li>
 <li>
   <a href="https://github.com/GabrielSouzaCosta/catmeow">
     CatMeow (Cat photos and facts generator)
