@@ -1,15 +1,13 @@
 # Hi! :handshake: My name is Gabriel Souza Costa 🙃
 
-I'm a <strong>Front-end developer</strong>, I love creating interfaces that are both functional and good-looking. I'm studying modern technologies like <strong>React and Next JS</strong>, but I also have solid knowledge of frontend development base. I have some backend development experience, mostly in Python
+I'm a <strong>Front-end developer</strong>, I love creating interfaces that are both functional and good-looking. I have solid knowledge of frontend development base, I'm studying modern technologies like <strong>React and Next JS</strong>.
 
 I have a portfólio website here: <a href="https://gabriel-souza-costa.vercel.app/" target="_blank">
 https://gabriel-souza-costa.vercel.app/
 </a>
 
+## My Stack
 
-<h2>
-  Frontend
-</h2>
 <div style="display: inline-block">
   <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -20,17 +18,7 @@ https://gabriel-souza-costa.vercel.app/
   <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-
-<h2>
-  Backend
-</h2>
-<div style="display: inline-block">
-  <img align="center" height="75" width="175" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img align="center" height="75" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" />
-  <img align="center" height="75" width="140" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
-</div>
 <br>
-<img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 
 ## Featured Projects
 
