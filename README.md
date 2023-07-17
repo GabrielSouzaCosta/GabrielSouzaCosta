@@ -1,4 +1,4 @@
-# Hi! :handshake: My name is Gabriel Souza Costa 🙃
+# Hi! :handshake: My name is Gabriel 🙃
 
 I'm a <strong>Front-end developer</strong>, I love creating interfaces that are both functional and good-looking. I have solid knowledge of frontend development base, I'm studying modern technologies like <strong>React and Next JS</strong>.
 
@@ -10,6 +10,7 @@ https://gabriel-souza-costa.vercel.app/
 
 <div style="display: inline-block">
   <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
