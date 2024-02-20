@@ -1,10 +1,12 @@
 # Hi! :handshake: My name is Gabriel 🙃
 
-I'm a <strong>Front-end developer</strong>, I love creating interfaces that are both functional and good-looking. I have solid knowledge of frontend development base, I'm studying modern technologies like <strong>React and Next JS</strong>.
+I'm a <strong>Front-end developer</strong>, I love creating interfaces that are both functional and good-looking. I have solid knowledge of frontend development base, I'm studying modern technologies like <strong>React, React Native and Next JS</strong>.
 
 I have a portfólio website here: <a href="https://gabriel-souza-costa.vercel.app/" target="_blank">
 https://gabriel-souza-costa.vercel.app/
 </a>
+
+I'm currently working at my app Characterverse.
 
 ## My Stack
 
