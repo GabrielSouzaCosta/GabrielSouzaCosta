@@ -15,8 +15,7 @@ https://gabriel-souza-costa.vercel.app/
   <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="75" src="https://user-images.githubusercontent.com/79537042/211562672-4df42186-da46-4134-8678-828c7ce7fc12.png" />
-  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
 </div>
 
 <br>
