@@ -6,8 +6,6 @@ I have a portfólio website here: <a href="https://gabriel-souza-costa.vercel.ap
 https://gabriel-souza-costa.vercel.app/
 </a>
 
-I'm currently working at my app Characterverse.
-
 ## My Stack
 
 <div style="display: inline-block">
