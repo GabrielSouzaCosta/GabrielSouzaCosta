@@ -6,6 +6,15 @@ I have a portfólio website here: <a href="https://gabriel-souza-costa.vercel.ap
 https://gabriel-souza-costa.vercel.app/
 </a>
 
+I'm working on 2 websites, if you consider to take a look:<br>
+<a href="https://characterverse.app">
+  Characterverse
+</a>
+<br>
+<a href="https://charmaker.app/">
+  Charmaker
+</a>
+
 ## My Stack
 
 <div style="display: inline-block">
